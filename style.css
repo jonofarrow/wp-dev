@@ -1,0 +1,12 @@
+/*
+Theme Name: 2015 Child
+Theme URI: https://ofarrow-wp-jon-ofarrow.c9.io/
+Description: This is a Child Theme of 2015
+Author: Jonathan O'Farrow
+Author URI: http://ofarrow.net
+Template: twentyfifteen
+Version: 0.1
+*/
+@import url("../twentyfifteen/style.css");
+
+body{background:white;}
